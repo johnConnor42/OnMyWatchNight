@@ -1,0 +1,16 @@
+{
+  "name": "onmywatchnight",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "firstTest.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^9.13.0",
+    "nightwatch": "^3.8.0"
+  }
+}
