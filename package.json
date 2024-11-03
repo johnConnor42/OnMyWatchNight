@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "cucumber": "^6.0.7",
     "edgedriver": "^6.1.0",
     "eslint": "^9.13.0",
     "geckodriver": "^5.0.0",
