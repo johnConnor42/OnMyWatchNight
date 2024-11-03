@@ -15,8 +15,5 @@
     "eslint": "^9.13.0",
     "geckodriver": "^5.0.0",
     "nightwatch": "^3.8.0"
-  },
-  "dependencies": {
-    "chromedriver": "^130.0.1"
   }
 }
